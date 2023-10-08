@@ -7,8 +7,7 @@ In order to achieve this project I used some resources and technologies listed b
 ## Built With
 
 - Major languages : JavaScript (ES6 syntax), HTLM and CSS
- -react
-- Library : `Jest` 
+ -react and react-router-dom
 - Technologies used : Github, Git and Linters
 
 ## Live Demo
